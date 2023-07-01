@@ -1,0 +1,6 @@
+WARNING!You’ll notice I’m using images here to show you what you should see. After
+extensive testing it turns out that so many people have their computers configured to
+not display utf-8 that I had to use images so you’ll know what to expect. Even my own
+typesetting system (LaTeX) couldn’t handle these encodings, forcing me to use images
+instead. If you don’t see this then your terminal is most likely not able to display utf-8
+and you should try to fix that
